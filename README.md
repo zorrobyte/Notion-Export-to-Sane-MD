@@ -5,18 +5,6 @@
 
 **Notion Export to Sane MD** is a suite of Python scripts designed to clean and validate your Notion markdown exports. These tools ensure your markdown files are organized, free of broken links, and adhere to consistent naming conventions. Additionally, the suite includes a link checker to identify and report broken or unreferenced links within your documentation.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Link Checker (`checker.py`)](#link-checker-checkerpy)
-  - [Markdown Converter (`converter.py`)](#markdown-converter-converterpy)
-- [Requirements](#requirements)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Link Validation:** Detects broken links within your markdown files and suggests possible fixes.
