@@ -12,6 +12,7 @@
 - **Unreferenced File Detection:** Identifies image and media files that are not referenced in any markdown files.
 - **Markdown Link Updates:** Automatically updates links in markdown files to reflect sanitized filenames and paths.
 - **Comprehensive Reporting:** Generates detailed reports on the validation and conversion processes.
+- Basically, gets rid of the GUID and other garbage notion exports
 
 ## Usage
 
